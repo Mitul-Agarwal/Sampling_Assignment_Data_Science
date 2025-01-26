@@ -1,4 +1,3 @@
-# Sampling_Assignment_Data_Science
 # Credit Card Fraud Detection with Sampling Techniques and Machine Learning Models
 
 This project applies various sampling techniques to balance an imbalanced dataset of credit card transactions. Several machine learning models are trained and evaluated on the sampled data to determine the best-performing combination of sampling techniques and models.
